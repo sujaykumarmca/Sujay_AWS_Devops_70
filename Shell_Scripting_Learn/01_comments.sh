@@ -5,4 +5,4 @@ echo "Car Name is::"+$car
 a=2
 b=3
 total=a+b
-echo "Total is::"+c
+echo "Total is::"+total
