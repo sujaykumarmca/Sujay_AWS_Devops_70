@@ -5,5 +5,5 @@ echo "Car Name is::"+$car
 echo "****Hello World*******"
 a=2
 b=3
-total=(a+b)
+total=$((a+b))
 echo "Total is::"+total
