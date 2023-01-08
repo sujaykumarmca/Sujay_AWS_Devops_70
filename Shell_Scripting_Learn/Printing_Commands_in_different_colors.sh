@@ -1,0 +1,1 @@
+echo -e "\e[31Apple\e[0m"
