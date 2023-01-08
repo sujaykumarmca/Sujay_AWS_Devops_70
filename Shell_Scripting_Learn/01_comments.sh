@@ -11,7 +11,8 @@ total=$((a+b))
 echo "Total is::"+$total
 
 #readonly variables
-c readonly 30;
+c=30;
+readonly c
 c=40
 echo "C="+$c
 
