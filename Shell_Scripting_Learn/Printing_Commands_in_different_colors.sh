@@ -1,1 +1,6 @@
 echo -e "\e[31mapple\e[0m"
+echo -e "\e[32mOrange\e[0m"
+echo -e "\e[33mSapota\e[0m"
+echo -e "\e[34mBlue Berry\e[0m"
+echo -e "\e[35m Kivi\e[0m"
+echo -e "\e[36m Lichi \e[0m"
