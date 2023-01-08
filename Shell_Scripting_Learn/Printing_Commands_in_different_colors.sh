@@ -1,1 +1,1 @@
-echo -e "\e[31Apple\e[0m"
+echo -e "\e[31mapple\e[0m"
