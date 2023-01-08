@@ -13,7 +13,7 @@ echo "Total is::"+$total
 #readonly variables
 c readonly 30;
 c=40
-echo "C="+c
+echo "C="+$c
 
 
 #printing dates
