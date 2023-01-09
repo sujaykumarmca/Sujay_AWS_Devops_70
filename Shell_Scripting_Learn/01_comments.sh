@@ -10,16 +10,9 @@ b=30
 total=$((a+b))
 echo "Total is::"+$total
 
-#readonly variables
-c=30;
-readonly c
-c=40
-echo "C="+$c
-
-
 #printing dates
 today_date=$(date +%F)
-echo "Hey Todays date is::+$today_date"
+echo "Hey Today's date is::+$today_date"
 
 #declaring arrays in shell script
 i=(10 20 30)
